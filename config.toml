@@ -1,4 +1,4 @@
-baseURL = '/'
+baseURL = 'https://haruketh.github.io/dfgc-proto5/'
 languageCode = 'ja-JP'
 title = 'DeFiGeek Community'
 # theme = ""
