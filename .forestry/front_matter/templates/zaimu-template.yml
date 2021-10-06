@@ -87,4 +87,5 @@ fields:
   hidden: true
   default: post
 pages:
+- content/blog/20xx-x.md
 - content/blog/monthly-2021-09.md
