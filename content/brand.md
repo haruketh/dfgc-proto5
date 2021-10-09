@@ -1,5 +1,5 @@
 ---
-title: DeFiGeek Communityブランドアセット
+title: ブランドアセット
 sections:
   - section_id: brand
     type: section_content
@@ -24,7 +24,7 @@ sections:
           ![](/images/brand_assets_icon.webp)
         actions:
           - label: ダウンロード
-            url: '/brand_assets/icon'
+            url: '#'
             style: secondary
       - title: ロゴ
         subtitle: 紅、ブラック
@@ -32,7 +32,7 @@ sections:
           ![](/images/brand_assets_logo.webp)
         actions:
           - label: ダウンロード
-            url: '/brand_assets/icon'
+            url: '#'
             style: secondary
       - title: バナー
         subtitle: 1500x500 px

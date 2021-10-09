@@ -57,7 +57,7 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: DeFiGeek Communityに参加しよう
-    subtitle: DeFi Dapps構築チームに参加してみませんか？ DeFiGeek Communityは、DeFiとDappsに興味のあるエンジニアを求めています。
+    subtitle: DeFi Dapps開発と成功には多様なスキルと人材が必要です。オープンソース型コミュニティでDeFi Dappsに携わってみませんか？
     actions:
       - label: 詳しくはこちら
         url: /signup
