@@ -160,7 +160,7 @@ body {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif; }
 
 a {
-  color: #0072ff;
+  color: #ff8888;
   text-decoration: underline;
   text-decoration-thickness: 1px;
   text-underline-offset: 0.125em;
@@ -237,7 +237,7 @@ pre {
   white-space: pre; }
 
 blockquote {
-  border-left: 3px solid #0072ff;
+  border-left: 3px solid #ff8888;
   color: #2c2f3b;
   font-size: 1.33333em;
   line-height: 1.3;
@@ -314,7 +314,7 @@ img {
 .underline {
   position: relative; }
   .underline:after {
-    border-left: 1.5em solid #0072ff;
+    border-left: 1.5em solid #ff8888;
     display: block;
     content: "";
     height: 2px;
@@ -353,7 +353,7 @@ img {
   box-shadow: 0 3px 10px 0 rgba(76, 82, 103, 0.1);
   box-sizing: border-box; }
   .card.highlight {
-    border-color: #0072ff;
+    border-color: #ff8888;
     border-width: 2px; }
 
 table {
@@ -482,8 +482,8 @@ textarea {
 .button {
   -ms-flex-align: center;
   align-items: center;
-  background: #0072ff;
-  border: 2px solid #0072ff;
+  background: #ff8888;
+  border: 2px solid #ff8888;
   border-radius: 3px;
   box-sizing: border-box;
   color: #fff;
@@ -509,7 +509,7 @@ textarea {
     padding: 0.625em 2.5em; }
   .button.secondary {
     background: transparent;
-    color: #0072ff; }
+    color: #ff8888; }
 
 .icon {
   color: inherit;
@@ -574,7 +574,7 @@ textarea {
     transform: rotate(-45deg); }
 
 .icon-plus {
-  background: #0072ff;
+  background: #ff8888;
   border-radius: 50%;
   color: #fff;
   height: 24px;
@@ -1127,7 +1127,7 @@ textarea {
   padding-top: 2.25em;
   position: relative; }
   .review-text:before {
-    color: #0072ff;
+    color: #ff8888;
     content: "\201C";
     display: block;
     font-size: 3.5em;
@@ -1285,9 +1285,9 @@ textarea {
     box-shadow: 0 3px 10px 0 rgba(76, 82, 103, 0.15); }
 
 .block.bg-accent {
-  background: #0072ff;
-  background: -webkit-gradient(linear, left top, right top, from(#0072ff), to(#00c6ff));
-  background: linear-gradient(to right, #0072ff, #00c6ff);
+  background: #ff8888;
+  background: -webkit-gradient(linear, left top, right top, from(#ff8888), to(#ffc7c7));
+  background: linear-gradient(to right, #ff8888, #ffc7c7);
   color: #fff; }
   .block.bg-accent a:not(.button) {
     color: #fff; }
@@ -1312,7 +1312,7 @@ textarea {
   .block.bg-accent .button {
     background: #fff;
     border-color: #fff;
-    color: #0072ff; }
+    color: #ff8888; }
     .block.bg-accent .button.secondary {
       background: transparent;
       color: #fff; }
