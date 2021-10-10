@@ -7,11 +7,19 @@ title = 'DeFiGeek Community'
 DefaultContentLanguage = "ja"
 
 [languages]
-  [languages.ja]
-    title = "DeFiGeek Community"
-    languageName = "JP"
-    weight = 1
-  [languages.en]
+[languages.ja]
+  title = "DeFiGeek Community"
+  languageName = "JP"
+  weight = 1
+    [languages.ja.params]
+      header_logo_img = 'images/DFGC_logo_lockup.webp'
+      header_logo_img_alt = 'Logo'
+[languages.en]
     title = "DeFiGeek Community"
     languageName = "EN"
     weight = 2
+    [languages.en.params]
+      header_logo_img = 'images/DFGC_logo_lockup_blue.webp'
+      header_logo_img_alt = 'Logo'
+
+

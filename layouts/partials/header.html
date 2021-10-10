@@ -2,13 +2,13 @@
   <div class="inner">
     <div class="site-header-inside">
       <div class="site-branding">
-        {{ if .Site.Data.config.header.logo_img }}
-        <p class="site-logo"><a href='{{ "/" | relURL }}'><img src="{{ $.Site.Data.config.header.logo_img | relURL }}" alt="{{ $.Site.Data.config.header.logo_img_alt }}" /></a></p>
+        {{ if .Site.Params.header_logo_img }}
+        <p class="site-logo"><a href='{{ "/" | relLangURL }}'><img src="{{ $.Site.Params.header_logo_img | relURL }}" alt="{{ $.Site.Params.header_logo_img_alt }}" /></a></p>
         {{ end }}
         {{ if or (eq .Params.layout "landing") (eq .Params.layout "blog") }}
-        <h1 class="site-title{{ if $.Site.Data.config.header.logo_img }} screen-reader-text{{ end }}"><a href='{{ "/" | relURL }}'>{{ $.Site.Data.config.title }}</a></h1>
+        <h1 class="site-title{{ if $.Site.Params.header_logo_img }} screen-reader-text{{ end }}"><a href='{{ "/" | relURL }}'>{{ $.Site.Data.config.title }}</a></h1>
         {{ else }}
-        <p class="site-title{{ if $.Site.Data.config.header.logo_img }} screen-reader-text{{ end }}"><a href='{{ "/" | relURL }}'>{{ $.Site.Data.config.title }}</a></p>
+        <p class="site-title{{ if $.Site.Params.header_logo_img }} screen-reader-text{{ end }}"><a href='{{ "/" | relURL }}'>{{ $.Site.Data.config.title }}</a></p>
         {{ end }}
       </div><!-- .site-branding -->
       {{ if and .Site.Data.config.header.nav_links .Site.Data.config.header.has_nav }}
