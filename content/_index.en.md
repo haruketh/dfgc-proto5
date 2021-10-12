@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/hero-hanabi.webp
+    image: images/hero-nippon2.png
     image_alt: App preview
     title: DeFiGeek Community
 #    content: >-

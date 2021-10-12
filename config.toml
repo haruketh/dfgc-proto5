@@ -1,5 +1,4 @@
 baseURL = '/'
-languageCode = 'ja-JP'
 title = 'DeFiGeek Community'
 # theme = ""
 
@@ -21,5 +20,3 @@ DefaultContentLanguage = "ja"
     [languages.en.params]
       header_logo_img = 'images/DFGC_logo_lockup_blue.webp'
       header_logo_img_alt = 'Logo'
-
-

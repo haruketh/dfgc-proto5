@@ -32,7 +32,7 @@
         {{ .Site.Data.config.footer.content | safeHTML }}
         &nbsp;
         {{ range $action := .Site.Data.config.footer.links }}
-          {{ $include_dict := dict "action" $action }}
+          {{ $include_dict := dict "action" }}
           {{ partial "action_link.html" $include_dict }}
         {{ end }}
       </div>

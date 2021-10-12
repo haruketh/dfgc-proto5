@@ -9,19 +9,23 @@
         "has_nav": true,
         "nav_links": [
             {
-                "label": "Docs",
-                "url": "https://docs.defigeek.xyz/"
-            },
-            {
                 "label": "About",
+                "label_en": "About",
                 "url": "/about"
             },
             {
+                "label": "ドキュメント",
+                "label_en": "Docs",
+                "url": "https://docs.defigeek.xyz/"
+            },
+            {
                 "label": "TXJP",
+                "label_en": "TXJP",
                 "url": "/txjp"
             },
             {
                 "label": "EN",
+                "label_en": "EN",
                 "url": "/en",
                 "has_icon": true,
                 "icon": "earth"
@@ -40,9 +44,11 @@
             {
                 "type": "footer_nav",
                 "title": "コミュニティ",
+                "title_en": "COMMUNITY",
                 "nav_links": [
                     {
                         "label": "About",
+                        "label_en": "About",
                         "url": "/about"
                     },
                     {
@@ -52,10 +58,12 @@
                     },
                     {
                         "label": "ドキュメント",
+                        "label_en": "Docs",
                         "url": "https://docs.defigeek.xyz/"
                     },
                     {
                         "label": "メディアキット",
+                        "label_en": "Media Kit",
                         "url": "/brand"
                     }
                 ]
@@ -63,9 +71,11 @@
             {
                 "type": "footer_nav",
                 "title": "参加する",
+                "title_en": "JOIN",
                 "nav_links": [
                     {
                         "label": "Twitter",
+                        "label_en": "Twitter",
                         "url": "https://twitter.com/defigeekjapan",
                         "has_icon": true,
                         "icon": "twitter",
@@ -73,6 +83,7 @@
                     },
                     {
                         "label": "Discord",
+                        "label_en": "Discord",
                         "url": "https://discord.gg/FQYXqVBEnh",
                         "has_icon": true,
                         "icon": "discord",
@@ -80,6 +91,7 @@
                     },
                     {
                         "label": "GitHub",
+                        "label_en": "GitHub",
                         "url": "https://github.com/DeFiGeek-Community/",
                         "has_icon": true,
                         "icon": "github",
@@ -87,10 +99,9 @@
                     },
                     {
                         "label": "フォーラム",
+                        "label_en": "Discussion",
                         "url": "https://gov.defigeek.xyz/#/",
-                        "has_icon": false,
-                        "icon": "",
-                        "icon_position": "left"
+                        "has_icon": false
                     }
                 ]
             }
