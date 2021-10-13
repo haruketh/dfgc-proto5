@@ -60,7 +60,7 @@ sections:
     subtitle: DeFi Dapps開発と成功には多様なスキルと人材が必要です。オープンソース型コミュニティでDeFi Dappsに携わってみませんか？
     actions:
       - label: 詳しくはこちら
-        url: /signup
+        url: /join
         style: primary
   - section_id: recent-posts
     type: section_posts

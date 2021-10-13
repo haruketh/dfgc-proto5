@@ -4,6 +4,13 @@ subtitle: >-
   日本を代表するDeFi Dapps開発チームに参加してみませんか？
 image: images/DFGC_logo_banner.webp
 image_alt: DeFiGeek Logo Banner
+actions:
+  - label: Discordに参加
+    url: https://discord.gg/FQYXqVBEnh
+    style: secondary
+    has_icon: true
+    icon: discord
+    icon_position: left
 seo:
   title: DeFiGeek Communityに参加する
   description: 日本を代表するDeFi Dapps開発チームに参加してみませんか？

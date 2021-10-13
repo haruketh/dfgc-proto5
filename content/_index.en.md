@@ -60,7 +60,7 @@ sections:
     subtitle: Want to join the DeFi Dapps building team? The DeFiGeek Community is looking for engineers who are interested in DeFi and Dapps.
     actions:
       - label: Learn More
-        url: /signup
+        url: /join
         style: primary
   - section_id: recent-posts
     type: section_posts

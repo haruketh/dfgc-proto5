@@ -18,5 +18,5 @@ DefaultContentLanguage = "ja"
     languageName = "EN"
     weight = 2
     [languages.en.params]
-      header_logo_img = 'images/DFGC_logo_lockup_blue.webp'
+      header_logo_img = 'images/DFGC_logo_lockup.webp'
       header_logo_img_alt = 'Logo'
