@@ -967,7 +967,7 @@ textarea {
     -ms-flex: 0 0 100%;
     flex: 0 0 100%;
     max-width: 750px;
-    text-align: center; }
+    text-align: left; }
   .hero-block .cell:only-child .underline:after,
   .text-block .cell:only-child .underline:after,
   .features-block .cell:only-child .underline:after {
