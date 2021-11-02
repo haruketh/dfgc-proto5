@@ -85,3 +85,4 @@ fields:
   default: post
 pages:
 - content/blog/テストしている.md
+- content/blog/インポートをテストしている.md
