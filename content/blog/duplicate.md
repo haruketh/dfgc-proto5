@@ -1,6 +1,6 @@
 +++
 author = ""
-date = 2021-06-14T15:00:00Z
+date = 2021-06-15T15:00:00Z
 draft = true
 excerpt = "これはテスト用の投稿です。"
 image = "/images/blog/DFGC_logo_banner_black.webp"
