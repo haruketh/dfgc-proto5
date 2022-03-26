@@ -85,5 +85,6 @@ fields:
   default: post
 pages:
 - content/blog/duplicate.md
+- content/blog/official.md
 - content/blog/インポートをテストしている.md
 - content/blog/テストしている.md
