@@ -1,14 +1,13 @@
 +++
 author = ""
 date = 2021-06-15T15:00:00Z
-draft = true
 excerpt = "これはテスト用の投稿です。"
-image = "/images/blog/DFGC_logo_banner_black.webp"
+image = ""
 image_alt = ""
 layout = "post"
 subtitle = ""
 tags = "コミュニティブログ"
-thumb_image = "/images/blog/DFGC_logo_banner_black.webp"
+thumb_image = "/images/blog/DFGC_logo_banner.webp"
 thumb_image_alt = ""
 title = "テストしている（Official）"
 [seo]
